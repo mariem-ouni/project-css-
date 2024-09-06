@@ -1,0 +1,48 @@
+.home{
+    color:orange;
+}
+.about{
+    color:palegreen;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400; 
+}
+.work{
+    color:thistle;
+}
+.main-content{
+    color:pink;
+}
+
+
+
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    color: lightcoral;
+    background-color: whitesmoke;
+  }
+
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 3;
+    color: navy;
+    background-color: #f9f9f9;
+  }
+
+  
+  .work-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
